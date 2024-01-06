@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Statistics from './Statistics';
-import FeedbackOptions from './FeedbackOptions';
-import Section from './Section';
+import Statistics from '../Statistics/Statistics';
+import FeedbackOptions from '../Feedback/FeedbackOptions';
+import Section from '../Section/Section';
 import css from './App.module.css';
 
 const App = () => {
